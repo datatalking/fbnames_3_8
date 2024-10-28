@@ -1,0 +1,21 @@
+1. needs requirements
+2. needs .env file
+3. needs .gitignore
+4. needs /data
+5. needs /tests
+6. needs more scope definition
+7. needs tests
+8. error in ../data vs ./data
+9. issue in database creation, no ddl
+10. wrap several prior bugs into andrew_process.py
+11. needs YAML file
+12. needs pyproject.toml
+13. updated README.md
+14. write setup.cfg
+15. replace word.word with word_word
+16. all functions need docstrings
+17. needs data validation in test suite
+18. needs null data sanitation checks
+20. codium is not installed
+21. null error in csv file - ERROR:__main__:Failed to process data: Validation issues in data/billionaires_002.csv: ["Null values found in columns: {'company_name': 38, 'company_relationship': 46, 'company_sector': 23, 'company_type': 36, 'demographics_gender': 34, 'wealth_type': 22, 'wealth_how_category': 1, 'wealth_how_industry': 1}"]
+22.
