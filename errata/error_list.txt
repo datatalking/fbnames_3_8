@@ -18,4 +18,4 @@
 18. needs null data sanitation checks
 20. codium is not installed
 21. null error in csv file - ERROR:__main__:Failed to process data: Validation issues in data/billionaires_002.csv: ["Null values found in columns: {'company_name': 38, 'company_relationship': 46, 'company_sector': 23, 'company_type': 36, 'demographics_gender': 34, 'wealth_type': 22, 'wealth_how_category': 1, 'wealth_how_industry': 1}"]
-22.
+22. needs git repo
